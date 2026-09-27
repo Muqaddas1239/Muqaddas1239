@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muqaddas Ameen</h1><h3 align="center">MPhil Mathematics Student | Aspiring Data Analyst</h3><p align="center">
   Mathematics • Data Analytics • Python • SQL • Power BI
-</p>---
+</p>
 
 About Me
 
